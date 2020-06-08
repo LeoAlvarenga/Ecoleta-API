@@ -1,5 +1,5 @@
 
-![WallPaper Ecoleta]()
+![WallPaper Ecoleta](https://github.com/LeoAlvarenga/Ecoleta-API/.github/Capa.png)
 
 
 # Ecoleta API
