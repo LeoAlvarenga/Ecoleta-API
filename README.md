@@ -1,5 +1,7 @@
 
-![WallPaper Ecoleta](https://github.com/LeoAlvarenga/Ecoleta-API/.github/Capa.png)
+<p align="center">
+   <img src=".github/Capa.png" />
+</p>
 
 
 # Ecoleta API
@@ -26,4 +28,5 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 
 # Getting Started
 
-
+Run the following command on terminal
+```npm run dev```
