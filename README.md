@@ -10,7 +10,7 @@
 [![Languages](https://img.shields.io/github/languages/count/LeoAlvarenga/Ecoleta-API?color=38e000&style=flat-square)](#)
 [![Languages](https://img.shields.io/github/languages/top/LeoAlvarenga/Ecoleta-API?color=38e000&style=flat-square)](#)
 
-> The API of the Ecoleta project built on the Next Level Week by Rocketseat, where we built a full application with the Back-end in Node, Front-end in React and the Mobile in React-Native. You can see the the [Web App](https://github.com/LeoAlvarenga/Ecoleta-Web) and the [Mobile App](https://github.com/LeoAlvarenga/Ecoleta-Mobile) clicking on the links.
+> The API of the Ecoleta project built on the Next Level Week by Rocketseat, where we built a full application with the Back-end in Node, Front-end in React and the Mobile in React-Native. You can see the the [Web App](https://github.com/LeoAlvarenga/Ecoleta-Web) and the [Mobile App](https://github.com/LeoAlvarenga/Ecoleta-Mobile) clicking on the links. Technologies such as express, knex, celebrate, multer and typescript were used in this project.
 
 # Installation
 
