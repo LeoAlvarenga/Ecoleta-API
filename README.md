@@ -16,7 +16,6 @@
 </p>
 
 > The API of the Ecoleta project built on the Next Level Week by Rocketseat, where we built a full application with the Back-end in Node, Front-end in React and the Mobile in React-Native. You can see the the [Web App](https://github.com/LeoAlvarenga/Ecoleta-Web) and the [Mobile App](https://github.com/LeoAlvarenga/Ecoleta-Mobile) clicking on the links. Technologies such as express, knex, celebrate, multer and typescript were used in this project.
->>>>>>> 39f2e01b3590198f631b101a8a5433b97791117d
 
 # Installation
 
